@@ -1,36 +1,34 @@
-# Hi, I'm Baidyanath  
+# Movie Recommendation System
 
-**MCA Graduate (Class of 2025) | LNCT University**  
-Specialization in Artificial Intelligence & Machine Learning (AIML)  
+A recommendation system that suggests movies to users based on collaborative filtering techniques.  
+This project was developed as part of my MCA coursework and focuses on applying machine learning to real-world applications.
 
----
+## Features
+- Recommends movies based on user preferences
+- Collaborative filtering approach
+- Uses Python and machine learning libraries
 
-## About Me  
-- Completed internship as Power BI Intern at Cognifyz Technologies (Jan–Feb 2025)  
-- Strong foundation in Probability, Statistics, and Discrete Mathematics  
-- Passionate about Data Science, Analytics, and Machine Learning  
-- Interested in solving real-world problems using AI & Data  
+## Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Jupyter Notebook
 
----
+## How It Works
+1. Collects and preprocesses movie and user rating data  
+2. Applies collaborative filtering to find similarity between users/items  
+3. Generates a list of recommended movies for each user  
 
-## Skills  
-- Languages: Python, C, C++, SQL  
-- Data & Visualization: Power BI, Pandas, NumPy, Matplotlib  
-- AI/ML: Scikit-Learn, Data Preprocessing, XGBoost  
-- Other Tools: Git, GitHub, Jupyter Notebook  
-
----
-
-## Projects  
-- Movie Recommendation System – Built using collaborative filtering techniques  
-- Student Performance Prediction
-
----
-
-## Connect With Me  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/baidyanath-kr-jha-175358287/)  
-- Email: baidyanath4ever@gmail.com  
-- GitHub: [github.com/yourusername](https://github.com/Bkjha1286)
+## Future Improvements
+- Add content-based filtering
+- Improve UI for better interaction
+- Deploy model using Flask or Streamlit
 
 ---
-Feel free to explore my repositories and connect with me for collaboration or opportunities.
+
+## Author
+Baidyanath Kumar Jha  
+[MCA Graduate, AIML Specialization]  
+GitHub: [Bkjha1286](https://github.com/Bkjha1286)  
+LinkedIn: [baidyanath-kr-jha](https://www.linkedin.com/in/baidyanath-kr-jha-175358287/)
+
